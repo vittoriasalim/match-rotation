@@ -1,0 +1,13 @@
+{
+    "levels": [
+      {
+        "path": "level1.txt",
+        "time": 30
+      },
+      {
+        "path": "level2.txt",
+        "time": 30
+      }
+    ]
+  
+  }
